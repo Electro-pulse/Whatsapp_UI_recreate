@@ -1,16 +1,6 @@
-# whatsapp_clone
+# Whatsapp UI
 
-A new Flutter project.
+A Flutter project I developed when I started learning flutter.
+I recreated basic layouts and widgets as in Whatsapp. Since I was a beginner stage in flutter I could only clone the UI and did not add more functionalities.
+Hope you like this :heart:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
